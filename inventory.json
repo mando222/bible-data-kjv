@@ -1,0 +1,20 @@
+{
+  "edition": "KJV",
+  "migration": "302bb5f92f1e05bf4b96c894f96da77a4cf10845",
+  "sources": [
+    {
+      "asset": "helloao_eng_kjv.json",
+      "sha256": "daa46f80e6b7908a0215bbcece762a01caf2912a87e322e4237f17cdf8c2de4b",
+      "url": "https://bible.helloao.org/api/eng_kjv/complete.json",
+      "license": "Public Domain",
+      "credit": "King James Version (1769). Public Domain."
+    },
+    {
+      "asset": "bsb_tables.tsv",
+      "url": "https://bereanbible.com/bsb_tables.tsv",
+      "sha256": "aa2a9a0f004d015738cd1839c7c56c3be2549e0d4f4537090c2017268c223c60",
+      "license": "Public domain",
+      "credit": "Berean Bible, Berean Translation Table"
+    }
+  ]
+}
